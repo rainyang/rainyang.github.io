@@ -13,12 +13,16 @@ custom:
     category:
         default: tech Category
         another: Another Category
+        product: Product Category
     categories:
       - name:  tech
         title: 关注技术
 
       - name:  another
         title: Another Category
+
+      - name:  product
+        title: 产品随谈
 
     scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
 
