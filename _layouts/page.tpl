@@ -20,7 +20,7 @@
 	{{ content }}
 
 	<footer>
-		<p>&copy; Since 2012</p>
+		<p>&copy; Since 2014</p>
 	</footer>
 </div>
 
@@ -45,7 +45,7 @@
 			{% if site.meta.author.gravatar %}<img src="{{ site.meta.gravatar}}{{ site.meta.author.gravatar }}?s=48" />{% endif %}
 			<figcaption><strong>{{ site.meta.author.name }}</strong></figcaption>
 		</figure>
-		<p>Write something about yourself.</p>
+		<p>{{ site.meta.author.about }}.</p>
 	</div>
 	
 	<div class="block block-license">
@@ -70,6 +70,7 @@
 			<a href="http://softwaremaniacs.org/soft/highlight/en/">HighlightJS</a>,
 			<a href="https://github.com/mojombo/jekyll" target="_blank">jekyll</a>,
 			<a href="https://github.com/mytharcher/SimpleGray" target="_blank">SimpleGray</a>
+			<a href="http://zongji.in" target="_blank">纵及</a>
 		</p>
 	</div>
 </aside>
