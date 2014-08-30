@@ -12,17 +12,21 @@ desc: 关注互联网,持续进步.
 custom:
     category:
         default: tech Category
-        another: Another Category
+        another: Project Category
         product: Product Category
+        product: think Category
     categories:
       - name:  tech
         title: 关注技术
 
-      - name:  another
-        title: Another Category
+      - name:  project
+        title: 项目&管理
 
       - name:  product
         title: 产品随谈
+
+      - name:  think
+        title: 非专业思考
 
     scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
 
