@@ -11,10 +11,10 @@ desc: 关注互联网,持续进步.
 
 custom:
     category:
-        default: Tech
+        default: tech
         another: Another Category
     categories:
-      - name:  Tech
+      - name:  tech
         title: 关注技术
 
       - name:  another
