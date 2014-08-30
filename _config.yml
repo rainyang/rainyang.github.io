@@ -11,7 +11,7 @@ desc: 关注互联网,持续进步.
 
 custom:
     category:
-        default: tech
+        default: tech Category
         another: Another Category
     categories:
       - name:  tech
