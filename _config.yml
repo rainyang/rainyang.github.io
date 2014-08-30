@@ -11,10 +11,10 @@ desc: 关注互联网,持续进步.
 
 custom:
     category:
-        default: tech Category
-        another: Project Category
-        product: Product Category
-        product: think Category
+        tech: 关注技术
+        project: 项目&管理
+        product: 产品随谈
+        think: 非专业思考
     categories:
       - name:  tech
         title: 关注技术
