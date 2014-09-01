@@ -4,7 +4,7 @@ title: 在Github上建立博客过程
 category: think
 ---
 
-很久之前就想建立自己的blog，用来进行知识和思考的积累，考虑过很多blog系统，包括CSDN、博客园、开源中国等，但是都没有坚持下来，总觉得不够满意，有一天忘记在哪里看到了大牛们的blog很多都放到了github上，可以在本地用[Markdown]语法写blog，git push即可发布，还提供绑定域名，简直爽爆了...于是乎，开始动手搭建。
+很久之前就想建立自己的blog，用来进行知识和思考的积累，考虑过很多blog系统，包括CSDN、博客园、开源中国等，但是都没有坚持下来，总觉得不够满意，有一天忘记在哪里看到了大牛们的blog很多都放到了[GitHub]上，可以在本地用[Markdown]语法写blog，git push即可发布，还提供绑定域名，简直爽爆了...于是乎，开始动手搭建。
 
 在开始之前，你必须已经安装了[git],并且拥有一个[GitHub]账号。
 
@@ -17,7 +17,7 @@ category: think
 [git]: http://git-scm.com/book/en/Getting-Started-Installing-Git
 [GitHub]: https://github.com/
 [jekyll]: https://github.com/mojombo/jekyll
-[Markdown]: http://daringfireball.net/projects/markdown/
+[Markdown]: https://github.com/othree/markdown-syntax-zhtw/blob/master/basics.md
 [WordPress]: http://wordpress.org/
 [Disqus]: http://disqus.com/
 [Google Picasa]: https://picasaweb.google.com/
