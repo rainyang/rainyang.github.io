@@ -15,6 +15,7 @@ custom:
         project: 项目&管理
         product: 产品随谈
         think: 非专业思考
+        worklog: 工作日志
     categories:
       - name:  tech
         title: 关注技术
@@ -27,6 +28,9 @@ custom:
 
       - name:  think
         title: 非专业思考
+
+      - name:  worklog
+        title: 工作日志 
 
     scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
 
